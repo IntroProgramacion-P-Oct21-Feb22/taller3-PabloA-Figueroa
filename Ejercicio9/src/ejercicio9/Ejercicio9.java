@@ -25,11 +25,9 @@ public class Ejercicio9 {
                 variable3) ;
         
         System.out.println("----------Resultados----------") ;
-        /* Math.pow nos permite elevar un exponencialmente 
-        Math.sqrt me permite obtener la raiz cuadrada de un numero
-        */ 
+        //Math.sqrt me permite obtener la raiz cuadrada de un numero
         
-        
+               
        System.out.println("Resultado Final") ;  
         System.out.println(respuesta1) ;
          System.out.println(respuesta1 >= variable4);
