@@ -25,7 +25,8 @@ public class Ejercicio01 {
         int variable6 = 81;
 
         System.out.println("-------Solución a problema------------------");
-
+        // Math.sqrt me permite obtener la raiz cuadrada de un numero.
+        
         double resultado = (variable1 + variable2 + variable3 + variable4) / 
                 variable5 + Math.sqrt(variable6);
         
